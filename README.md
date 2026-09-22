@@ -139,17 +139,6 @@ print(who_am_i())
   <img src="https://media.giphy.com/media/SWoSkNksGN6MKzJ4V6/giphy.gif" width="320" alt="learning to code gif" />
 </p>
 
-### 🗺️ Learning Roadmap
-
-```mermaid
-timeline
-    title My Roadmap
-    Q4 2026 : Git + HTML/CSS done ✅ : JS + portfolio polish
-    Q1 2027 : Python OOP + DSA start : Freelance gigs
-    2027-28 : React + Node depth : Hackathons + OSS
-    Long term : Full-stack + AI apps : Internship
-```
-
 ---
 
 ## 🎯 Future Goals
