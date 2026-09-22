@@ -20,8 +20,6 @@
 
 ## 🙋‍♂️ About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" />
-
 Hi! I'm **T Thirupathi Raja**, a first-year **B.Tech Information Technology** student from Kerala, India. 👋
 
 I turn ideas into working software — I've already shipped a streaming app, Telegram bots, and AI-powered generators with Python, React and Kotlin. I build fast with AI coding assistants and care about clean, finished products.
@@ -33,7 +31,9 @@ I turn ideas into working software — I've already shipped a streaming app, Tel
 - ⚡ Fun fact: I enjoy exploring new tools and customizing my dev setup
 - 👀 Focus: Full-stack development & Android
 
-<br clear="right"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="coding gif" />
+</p>
 
 ---
 
