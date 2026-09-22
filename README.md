@@ -104,7 +104,7 @@ print(who_am_i())
 | **💬 Ivy — Blog Generator & Chatbot** | Topic → structured post with title/outline/draft + Q&A chat | Python, HTML, CSS | [tirforge/ivy](https://github.com/tirforge/ivy) |
 | **📄 MarkToPaper — QnA Generator** | Upload a PDF, get clean question-answer revision notes | Python | [tirforge/MarkToPaper](https://github.com/tirforge/MarkToPaper) |
 | **🌐 Portfolio Website** | My homepage — bio, skills, projects, contact, freelance info | React, HTML, CSS | [tthirupathiraja.vercel.app](https://tthirupathiraja.vercel.app) |
-| **📖 my-tech-journey** | This repo — my public learning diary (Task 2) | Markdown | ✅ You're here |
+| **📖 my-tech-journey** | This repo — my public learning diary | Markdown | ✅ You're here |
 
 <p align="center">
   <a href="https://tthirupathiraja.vercel.app"><img src="https://img.shields.io/badge/Live_Portfolio-tthirupathiraja.vercel.app-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
@@ -133,7 +133,7 @@ print(who_am_i())
 - [ ] Data Structures & Algorithms basics
 - [ ] Linux command line
 
-**This week's focus:** 🚀 Polishing my portfolio + JavaScript mini projects (Task 2 README done ✅)
+**This week's focus:** 🚀 Polishing my portfolio + JavaScript mini projects
 
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkNksGN6MKzJ4V6/giphy.gif" width="320" alt="learning to code gif" />
@@ -173,14 +173,6 @@ timeline
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tirforge&theme=tokyonight" alt="top langs — live" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tirforge/my-tech-journey/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tirforge/my-tech-journey/output/github-snake.svg" />
-    <img src="https://raw.githubusercontent.com/tirforge/my-tech-journey/output/github-snake.svg" alt="animated contribution snake — updates daily" />
-  </picture>
-</p>
-
 ---
 
 ## 📂 How to Use This Repo
@@ -213,13 +205,7 @@ git clone https://github.com/tirforge/my-tech-journey.git
 
 ---
 
-## 🙏 Acknowledgements
-
-Thanks to my college mentors and the open-source community for inspiration. This README is 100% original and written by me for **Kickoff Task 2**.
-
-*Last updated: September 2026*
-
-### 📄 License
+## 📄 License
 
 MIT — feel free to take inspiration, but write your own story. No copying!
 
