@@ -10,7 +10,7 @@
   <img src="https://komarev.com/ghpvc/?username=tirforge&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/tirforge?label=Followers&style=for-the-badge&logo=github" alt="followers — live" />
   <img src="https://img.shields.io/github/stars/tirforge?label=Total%20Stars&style=for-the-badge&logo=github" alt="total stars — live" />
-  <img src="https://img.shields.io/github/last-commit/tirforge/my-tech-journey?label=Last%20commit" alt="last commit — live" />
+  <img src="https://img.shields.io/github/last-commit/tirforge/my-tech-journey?label=Last%20commit&style=for-the-badge&logo=github" alt="last commit — live" />
   <img src="https://img.shields.io/badge/dynamic/json?label=Public%20repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftirforge&logo=github" alt="public repos — live" />
 </p>
 
@@ -69,7 +69,7 @@ I turn ideas into working software — I've already shipped a streaming app, Tel
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
 - 🔧 **Tools:** Git, GitHub, VS Code, Linux terminal, OpenCode, Claude Code
-- 🌐 **Web Basics:** HTML, CSS, basic JavaScript, React basics
+- 🌐 **Web Basics:** HTML, CSS, JavaScript in progress, React + Kotlin from shipped apps
 - 🤖 **AI & Automation:** OpenDesign, n8n workflows, AI-assisted coding
 - 📱 **Android:** Custom ROMs, rooting, system tweaks
 - 🧠 **CS Fundamentals:** Problem solving, basic data structures, OOP concepts (learning)
@@ -90,25 +90,6 @@ def who_am_i():
 
 print(who_am_i())
 ```
-
----
-
-## 🚀 Featured Projects
-
-> Real apps I've shipped — source and demos linked. Full showcase: **https://tthirupathiraja.vercel.app**
-
-| Project | What it is | Stack | Link |
-|---------|------------|-------|------|
-| **🎬 Aruvi — Streaming Movie App** | Browsable catalog + playback, React web + native Kotlin Android app | React, Kotlin, Python | [tirforge/Aruvi](https://github.com/tirforge/Aruvi) |
-| **📥 Telegram Leech** | Bot that fetches/mirrors files from URLs & torrents into chat | Python, Git | [tirforge/telegram-leech](https://github.com/tirforge/telegram-leech) |
-| **💬 Ivy — Blog Generator & Chatbot** | Topic → structured post with title/outline/draft + Q&A chat | Python, HTML, CSS | [tirforge/ivy](https://github.com/tirforge/ivy) |
-| **📄 MarkToPaper — QnA Generator** | Upload a PDF, get clean question-answer revision notes | Python | [tirforge/MarkToPaper](https://github.com/tirforge/MarkToPaper) |
-| **🌐 Portfolio Website** | My homepage — bio, skills, projects, contact, freelance info | React, HTML, CSS | [tthirupathiraja.vercel.app](https://tthirupathiraja.vercel.app) |
-| **📖 my-tech-journey** | This repo — my public learning diary | Markdown | ✅ You're here |
-
-<p align="center">
-  <a href="https://tthirupathiraja.vercel.app"><img src="https://img.shields.io/badge/Live_Portfolio-tthirupathiraja.vercel.app-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
-</p>
 
 ---
 
