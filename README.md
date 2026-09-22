@@ -3,15 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+T+Thirupathi+Raja;B.Tech+IT+%7C+GEC+Barton+Hill;Learn+by+Building+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 <p align="center">
-  <b>I build streaming apps, Telegram bots and AI-assisted tools with Python.</b>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=tirforge&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/tirforge?label=Followers&style=for-the-badge&logo=github" alt="followers — live" />
   <img src="https://img.shields.io/github/stars/tirforge?label=Total%20Stars&style=for-the-badge&logo=github" alt="total stars — live" />
   <img src="https://img.shields.io/github/last-commit/tirforge/my-tech-journey?label=Last%20commit&style=for-the-badge&logo=github" alt="last commit — live" />
-  <img src="https://img.shields.io/badge/dynamic/json?label=Public%20repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftirforge&logo=github" alt="public repos — live" />
 </p>
 
 > *“Small steps every day lead to big results.”* 🌱
