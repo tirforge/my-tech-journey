@@ -159,22 +159,27 @@ timeline
 
 ## 📊 GitHub Stats
 
+> All cards below are live and tested (Sep 2026). Old `github-readme-stats` / activity-graph / trophy hosts are paused, so I switched to working hosts.
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tirforge&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tirforge&theme=tokyonight" alt="profile details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tirforge&theme=tokyonight" alt="stats" />
   <img src="https://streak-stats.demolab.com?user=tirforge&theme=tokyonight&hide_border=true" height="170" alt="streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirforge&layout=donut&theme=tokyonight&hide_border=true" height="180" alt="top langs" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tirforge&theme=tokyonight" alt="repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tirforge&theme=tokyonight" alt="top langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tirforge&theme=tokyo-night&hide_border=true" width="100%" alt="activity graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tirforge&theme=tokyonight&utcOffset=5.5" alt="productive time" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tirforge&theme=tokyonight&no-frame=true&margin-w=10" alt="trophies" />
-</p>
+*New account = small numbers at first — that's normal. These fill up as I commit more.*
 
 ---
 
