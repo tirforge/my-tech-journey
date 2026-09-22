@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=My%20Tech%20Journey&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+T+Thirupathi+Raja;B.Tech+IT+%7C+GEC+Barton+Hill;I+ship+apps%3A+Aruvi%2C+Ivy%2C+MarkToPaper;Open+to+freelance+%26+internships+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+T+Thirupathi+Raja;B.Tech+IT+%7C+GEC+Barton+Hill;I+build+Python+apps+%26+modern+websites;Open+to+freelance+%26+internships+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <p align="center">
   <b>I build streaming apps, Telegram bots and AI-assisted tools with Python — open to freelance & internships.</b>
