@@ -162,6 +162,14 @@ print(who_am_i())
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tirforge&theme=tokyonight" alt="top langs — live" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tirforge/my-tech-journey/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tirforge/my-tech-journey/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/tirforge/my-tech-journey/output/github-snake.svg" alt="animated contribution snake — updates daily" />
+  </picture>
+</p>
+
 ---
 
 ## 📂 How to Use This Repo
@@ -177,13 +185,14 @@ git clone https://github.com/tirforge/my-tech-journey.git
 <p align="center">
   <a href="https://tthirupathiraja.vercel.app"><img src="https://img.shields.io/badge/Portfolio-tthirupathiraja.vercel.app-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
   <a href="https://github.com/tirforge"><img src="https://img.shields.io/badge/GitHub-tirforge-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+  <a href="https://in.linkedin.com/in/thirupathi-raja-t-913194439"><img src="https://img.shields.io/badge/LinkedIn-Thirupathi_Raja_T-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 </p>
 
 | Platform | Link |
 |----------|------|
 | 🌐 Portfolio | [tthirupathiraja.vercel.app](https://tthirupathiraja.vercel.app) |
 | 💻 GitHub | [github.com/tirforge](https://github.com/tirforge) |
-| 💼 LinkedIn | *Coming soon — will update here* |
+| 💼 LinkedIn | [Thirupathi Raja T](https://in.linkedin.com/in/thirupathi-raja-t-913194439) |
 | 📧 Email | *Available on request* |
 
 > ⭐ If you find my journey interesting, consider starring this repo!
