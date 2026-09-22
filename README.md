@@ -135,6 +135,10 @@ print(who_am_i())
 
 **This week's focus:** ✅ Completing Task 2 — my first professional GitHub README!
 
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkNksGN6MKzJ4V6/giphy.gif" width="320" alt="learning to code gif" />
+</p>
+
 ### 🗺️ Learning Roadmap
 
 ```mermaid
