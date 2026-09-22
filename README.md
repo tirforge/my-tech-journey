@@ -107,7 +107,7 @@ print(who_am_i())
 | **📖 my-tech-journey** | This repo — my public learning diary (Task 2) | Markdown | ✅ You're here |
 
 <p align="center">
-  <a href="https://tthirupathiraja.vercel.app"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-tthirupathiraja.vercel.app-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
+  <a href="https://tthirupathiraja.vercel.app"><img src="https://img.shields.io/badge/Live_Portfolio-tthirupathiraja.vercel.app-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
 </p>
 
 ---
