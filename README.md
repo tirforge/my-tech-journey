@@ -7,10 +7,14 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tirforge&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/tirforge?style=social" alt="followers" />
-  <img src="https://img.shields.io/github/last-commit/tirforge/my-tech-journey" alt="last commit" />
-  <img src="https://img.shields.io/github/stars/tirforge/my-tech-journey?style=social" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=tirforge&label=Profile%20views&color=0e75b6&style=flat" alt="profile views — auto-updates on every visit" />
+  <img src="https://img.shields.io/github/followers/tirforge?label=Followers&style=social" alt="followers — live" />
+  <img src="https://img.shields.io/github/stars/tirforge?label=Stars&style=social" alt="total stars — live" />
+  <img src="https://img.shields.io/github/last-commit/tirforge/my-tech-journey?label=Last%20commit" alt="last commit — live" />
+  <br/>
+  <img src="https://img.shields.io/github/followers/tirforge?label=Followers&style=for-the-badge&logo=github" alt="followers badge" />
+  <img src="https://img.shields.io/github/stars/tirforge?label=Total%20Stars&style=for-the-badge&logo=github" alt="total stars badge" />
+  <img src="https://img.shields.io/badge/dynamic-repos?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftirforge&query=%24.public_repos&label=Public%20repos&logo=github" alt="public repos — live" />
   <img src="https://img.shields.io/badge/Made%20with-Markdown-blue?style=flat&logo=markdown" alt="markdown" />
 </p>
 
@@ -53,8 +57,15 @@ I love understanding how software works — from websites and apps to problem-so
 
 ## 🛠️ Technical Skills
 
+> Core stack is hand-picked. The cards underneath are **fully dynamic** — they rebuild from my GitHub on every view, so new languages/repos show up automatically.
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,git,github,vscode,linux,markdown" alt="my skills" />
+  <img src="https://skillicons.dev/icons?i=python,c,html,css,js,react,kotlin,git,github,vscode,linux,markdown" alt="my skills" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tirforge&theme=tokyonight" height="165" alt="repos per language — live" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tirforge&theme=tokyonight" height="165" alt="most commits — live" />
 </p>
 
 ### Languages
