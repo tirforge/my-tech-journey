@@ -24,7 +24,7 @@
 
 Hi! I'm **T Thirupathi Raja**, a first-year **B.Tech Information Technology** student from Kerala, India. 👋
 
-I turn ideas into working software — I've already shipped a streaming app, Telegram bots and AI-powered generators with Python, React and Kotlin. I build fast with AI coding assistants and care about clean, finished products.
+I turn ideas into working software — I've already shipped a streaming app, Telegram bots, and AI-powered generators with Python, React and Kotlin. I build fast with AI coding assistants and care about clean, finished products.
 
 - 📍 Based in: Kerala, India
 - 🎓 College: Government Engineering College Barton Hill, Thiruvananthapuram
@@ -41,9 +41,9 @@ I turn ideas into working software — I've already shipped a streaming app, Tel
 
 | Degree | Institution | Year | Details |
 |--------|-------------|------|---------|
-| **B.Tech in Information Technology** | Government Engineering College Barton Hill, Thiruvananthapuram (KTU) | 2026 — 2030 | First Year, Merit Admission |
+| **B.Tech in Information Technology** | Government Engineering College Barton Hill, Thiruvananthapuram (KTU) | 2026 — 2030 | First year · Merit quota |
 | **Higher Secondary (HSE, Plus Two)** | MGM NSS HSS Lakkattoor, Kottayam | 2024 — 2026 | 97.67% — Physics, Chemistry, Maths |
-| **SSLC (10th)** | Govt. of Kerala Board | 2024 | Passed with distinction |
+| **SSLC (10th)** | Govt. of Kerala Board | 2024 | Full A+ · all subjects |
 
 ---
 
@@ -69,7 +69,7 @@ I turn ideas into working software — I've already shipped a streaming app, Tel
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
 - 🔧 **Tools:** Git, GitHub, VS Code, Linux terminal, OpenCode, Claude Code
-- 🌐 **Web Basics:** HTML, CSS, JavaScript in progress, React + Kotlin from shipped apps
+- 🌐 **Web Basics:** HTML, CSS, JavaScript in progress, React + Kotlin basics
 - 🤖 **AI & Automation:** OpenDesign, n8n workflows, AI-assisted coding
 - 📱 **Android:** Custom ROMs, rooting, system tweaks
 - 🧠 **CS Fundamentals:** Problem solving, basic data structures, OOP concepts (learning)
@@ -114,7 +114,7 @@ print(who_am_i())
 - [ ] Data Structures & Algorithms basics
 - [ ] Linux command line
 
-**This week's focus:** 🚀 Polishing my portfolio + JavaScript mini projects
+**Current focus:** 🚀 Polishing my portfolio + JavaScript mini projects
 
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkNksGN6MKzJ4V6/giphy.gif" width="320" alt="learning to code gif" />
@@ -174,7 +174,7 @@ git clone https://github.com/tirforge/my-tech-journey.git
 | 🌐 Portfolio | [tthirupathiraja.vercel.app](https://tthirupathiraja.vercel.app) |
 | 💻 GitHub | [github.com/tirforge](https://github.com/tirforge) |
 | 💼 LinkedIn | [Thirupathi Raja T](https://in.linkedin.com/in/thirupathi-raja-t-913194439) |
-| 📧 Email | *Available on request* |
+| 📧 Email | *Reach out via my [portfolio contact](https://tthirupathiraja.vercel.app)* |
 
 > ⭐ If you find my journey interesting, consider starring this repo!
 
