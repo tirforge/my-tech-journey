@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=My%20Tech%20Journey&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+T+Thirupathi+Raja;B.Tech+IT+Student+%7C+GEC+Barton+Hill;Aspiring+Software+Developer;Learn+by+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+T+Thirupathi+Raja;B.Tech+IT+%7C+GEC+Barton+Hill;I+ship+apps%3A+Aruvi%2C+Ivy%2C+MarkToPaper;Open+to+freelance+%26+internships+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <p align="center">
   <b>I build streaming apps, Telegram bots and AI-assisted tools with Python — open to freelance & internships.</b>
@@ -24,7 +24,7 @@
 
 Hi! I'm **T Thirupathi Raja**, a first-year **B.Tech Information Technology** student from Kerala, India. 👋
 
-I love understanding how software works — from websites and apps to problem-solving with code. I'm just starting my engineering journey and excited to grow into a skilled developer who builds useful, real-world projects.
+I turn ideas into working software — I've already shipped a streaming app, Telegram bots and AI-powered generators with Python, React and Kotlin. I build fast with AI coding assistants and care about clean, finished products.
 
 - 📍 Based in: Kerala, India
 - 🎓 College: Government Engineering College Barton Hill, Thiruvananthapuram
@@ -114,12 +114,12 @@ print(who_am_i())
 
 ## 💫 Areas of Interest
 
-- 🌐 **Web Development** — Frontend + Backend, building responsive websites
-- 🐍 **Python Programming** — Scripting, automation, problem solving
-- 🤖 **Artificial Intelligence & Machine Learning** — Curious about how AI works
-- 📱 **App Development** — Mobile & cross-platform apps in the future
-- 🔐 **Cybersecurity Basics** — Understanding safe & secure software
-- ☁️ **Open Source** — Learning GitHub, contributing to beginner-friendly projects
+- 🌐 **Web Development** — React frontends, responsive layouts, shipping live sites
+- 🐍 **Python Programming** — Bots, automation, generators that solve real problems
+- 🤖 **AI-Assisted Building** — OpenCode, Claude Code and OpenDesign in daily workflow
+- 🔁 **Automation** — n8n workflows wiring APIs and services together
+- 📱 **Android** — Kotlin apps, custom ROMs, root-level customization
+- 🖥️ **Self-Hosting** — Running my own services, full control end to end
 
 ---
 
@@ -133,7 +133,7 @@ print(who_am_i())
 - [ ] Data Structures & Algorithms basics
 - [ ] Linux command line
 
-**This week's focus:** ✅ Completing Task 2 — my first professional GitHub README!
+**This week's focus:** 🚀 Polishing my portfolio + JavaScript mini projects (Task 2 README done ✅)
 
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkNksGN6MKzJ4V6/giphy.gif" width="320" alt="learning to code gif" />
@@ -144,20 +144,20 @@ print(who_am_i())
 ```mermaid
 timeline
     title My Roadmap
-    Q4 2026 : HTML/CSS + Git mastery : 3 mini projects
-    Q1 2027 : JavaScript + Python OOP : Portfolio v1
-    2027-28 : React + Node + DSA : Hackathons
-    Long term : Full-stack + AI basics : Internship
+    Q4 2026 : Git + HTML/CSS done ✅ : JS + portfolio polish
+    Q1 2027 : Python OOP + DSA start : Freelance gigs
+    2027-28 : React + Node depth : Hackathons + OSS
+    Long term : Full-stack + AI apps : Internship
 ```
 
 ---
 
 ## 🎯 Future Goals
 
-1. 🏗️ **Short-term (2026-2027):** Master Python + Web basics, build 5+ mini projects, maintain a clean GitHub streak
-2. 💼 **Mid-term (2027-2028):** Learn full-stack (React + Node / Python backend), DSA in depth, join hackathons & tech clubs
-3. 🌍 **Long-term:** Become a software engineer / AI engineer, contribute to open source, and intern at a product company
-4. 🤝 **Community:** Share notes, help juniors, and document my journey in public
+1. 🏗️ **Short-term (2026-2027):** Deepen JavaScript + Python OOP, ship 3 more mini projects, keep a steady commit streak
+2. 💼 **Mid-term (2027-2028):** Full-stack React + backend, DSA fluency, hackathons and open-source contributions
+3. 🌍 **Long-term:** Software engineer building AI-powered products, with freelance and internship experience behind me
+4. 🤝 **Community:** Share build notes, help juniors start shipping, document everything in public
 
 ---
 
@@ -171,6 +171,14 @@ timeline
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tirforge&theme=tokyonight" alt="repos per language — live" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tirforge&theme=tokyonight" alt="top langs — live" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tirforge/my-tech-journey/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tirforge/my-tech-journey/output/github-snake.svg" />
+    <img src="https://raw.githubusercontent.com/tirforge/my-tech-journey/output/github-snake.svg" alt="animated contribution snake — updates daily" />
+  </picture>
 </p>
 
 ---
