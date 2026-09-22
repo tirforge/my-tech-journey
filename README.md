@@ -7,15 +7,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tirforge&label=Profile%20views&color=0e75b6&style=flat" alt="profile views — auto-updates on every visit" />
-  <img src="https://img.shields.io/github/followers/tirforge?label=Followers&style=social" alt="followers — live" />
-  <img src="https://img.shields.io/github/stars/tirforge?label=Stars&style=social" alt="total stars — live" />
+  <img src="https://komarev.com/ghpvc/?username=tirforge&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/tirforge?label=Followers&style=for-the-badge&logo=github" alt="followers — live" />
+  <img src="https://img.shields.io/github/stars/tirforge?label=Total%20Stars&style=for-the-badge&logo=github" alt="total stars — live" />
   <img src="https://img.shields.io/github/last-commit/tirforge/my-tech-journey?label=Last%20commit" alt="last commit — live" />
-  <br/>
-  <img src="https://img.shields.io/github/followers/tirforge?label=Followers&style=for-the-badge&logo=github" alt="followers badge" />
-  <img src="https://img.shields.io/github/stars/tirforge?label=Total%20Stars&style=for-the-badge&logo=github" alt="total stars badge" />
   <img src="https://img.shields.io/badge/dynamic-repos?url=https%3A%2F%2Fapi.github.com%2Fusers%2Ftirforge&query=%24.public_repos&label=Public%20repos&logo=github" alt="public repos — live" />
-  <img src="https://img.shields.io/badge/Made%20with-Markdown-blue?style=flat&logo=markdown" alt="markdown" />
 </p>
 
 > *“Small steps every day lead to big results.”* 🌱
@@ -35,13 +31,9 @@ I love understanding how software works — from websites and apps to problem-so
 - 🌱 Currently: First-year B.Tech IT student (2026 batch)
 - 💡 Motto: Learn by building
 - ⚡ Fun fact: I enjoy exploring new tools and customizing my dev setup
-- 👀 Looking for: Hackathons, tech clubs & beginner open-source issues
+- 👀 Looking for: Freelance, internships & collaboration
 
 <br clear="right"/>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasr9ia7C5/giphy.gif" width="220" alt="waving gif" />
-</p>
 
 ---
 
@@ -57,15 +49,8 @@ I love understanding how software works — from websites and apps to problem-so
 
 ## 🛠️ Technical Skills
 
-> Core stack is hand-picked. The cards underneath are **fully dynamic** — they rebuild from my GitHub on every view, so new languages/repos show up automatically.
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,html,css,js,react,kotlin,git,github,vscode,linux,markdown" alt="my skills" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tirforge&theme=tokyonight" height="165" alt="repos per language — live" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tirforge&theme=tokyonight" height="165" alt="most commits — live" />
 </p>
 
 ### Languages
@@ -80,7 +65,8 @@ I love understanding how software works — from websites and apps to problem-so
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 
 - 🔧 **Tools:** Git, GitHub, VS Code, Linux terminal, OpenCode, Claude Code
 - 🌐 **Web Basics:** HTML, CSS, basic JavaScript, React basics
@@ -122,10 +108,6 @@ print(who_am_i())
 
 <p align="center">
   <a href="https://tthirupathiraja.vercel.app"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-tthirupathiraja.vercel.app-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/SWoSkNksGN6MKzJ4V6/giphy.gif" width="320" alt="coding cat gif" />
 </p>
 
 ---
@@ -177,43 +159,23 @@ timeline
 
 ## 📊 GitHub Stats
 
-> All cards below are live and tested (Sep 2026). Old `github-readme-stats` / activity-graph / trophy hosts are paused, so I switched to working hosts.
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tirforge&theme=tokyonight" alt="profile details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tirforge&theme=tokyonight" alt="stats — live" />
+  <img src="https://streak-stats.demolab.com?user=tirforge&theme=tokyonight&hide_border=true" height="170" alt="streak — live" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tirforge&theme=tokyonight" alt="stats" />
-  <img src="https://streak-stats.demolab.com?user=tirforge&theme=tokyonight&hide_border=true" height="170" alt="streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tirforge&theme=tokyonight" alt="repos per language — live" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tirforge&theme=tokyonight" alt="top langs — live" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tirforge&theme=tokyonight" alt="repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tirforge&theme=tokyonight" alt="top langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tirforge&theme=tokyonight&utcOffset=5.5" alt="productive time" />
-</p>
-
-*New account = small numbers at first — that's normal. These fill up as I commit more.*
 
 ---
 
 ## 📂 How to Use This Repo
 
-This is a profile repo — just read it! But if you want to reuse the structure:
-
 ```bash
 git clone https://github.com/tirforge/my-tech-journey.git
-cd my-tech-journey
-# Open README.md and make it yours — don't copy blindly!
 ```
-
-- 📄 `README.md` — the whole profile
-- ⭐ Star it if it inspired you
-- 🍴 Fork it to use as a template skeleton (replace all content with your own!)
 
 ---
 
@@ -222,7 +184,6 @@ cd my-tech-journey
 <p align="center">
   <a href="https://tthirupathiraja.vercel.app"><img src="https://img.shields.io/badge/Portfolio-tthirupathiraja.vercel.app-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
   <a href="https://github.com/tirforge"><img src="https://img.shields.io/badge/GitHub-tirforge-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-coming_soon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 </p>
 
 | Platform | Link |
