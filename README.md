@@ -1,20 +1,20 @@
-# 👋 Hi, I'm T Thirupathi Raja
+# 👋 Welcome to My Tech Journey
 
 ### 🚀 B.Tech IT Student | Aspiring Software Developer | Tech Explorer
 
-Welcome to **thirupathi-tech-journey** — my public tech diary where I document what I'm learning, building, and aiming for. 🎯
+Welcome to **my-tech-journey** — my public tech diary where I document what I'm learning, building, and aiming for. 🎯
 
 > *“Small steps every day lead to big results.”*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=tirforge&label=Profile%20views&color=0e75b6&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/tirforge?style=social)
-![Last Commit](https://img.shields.io/github/last-commit/tirforge/thirupathi-tech-journey)
+![Last Commit](https://img.shields.io/github/last-commit/tirforge/my-tech-journey)
 
 ---
 
 ## 🙋‍♂️ About Me
 
-Hi! I'm **Thirupathi Raja**, a first-year **B.Tech Information Technology** student from Kerala, India.
+Hi! I'm a first-year **B.Tech Information Technology** student from Kerala, India.
 
 I love understanding how software works — from websites and apps to problem-solving with code. I'm just starting my engineering journey and excited to grow into a skilled developer who builds useful, real-world projects.
 
@@ -55,7 +55,7 @@ I love understanding how software works — from websites and apps to problem-so
 # A little about me in code
 def who_am_i():
     return {
-        "name": "T Thirupathi Raja",
+        "role": "B.Tech IT Student",
         "education": "B.Tech IT @ GEC Barton Hill",
         "skills": ["Python", "C", "HTML", "CSS", "Git"],
         "learning": ["JavaScript", "DSA", "Linux"],
