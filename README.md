@@ -1,9 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=My%20Tech%20Journey&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+T+Thirupathi+Raja;B.Tech+IT+%7C+GEC+Barton+Hill;Open+to+freelance+%26+internships+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=36BCF7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+T+Thirupathi+Raja;B.Tech+IT+%7C+GEC+Barton+Hill;Learn+by+Building+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 <p align="center">
-  <b>I build streaming apps, Telegram bots and AI-assisted tools with Python — open to freelance & internships.</b>
+  <b>I build streaming apps, Telegram bots and AI-assisted tools with Python.</b>
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@ I turn ideas into working software — I've already shipped a streaming app, Tel
 - 🌱 Currently: First-year B.Tech IT student (2026 batch)
 - 💡 Motto: Learn by building
 - ⚡ Fun fact: I enjoy exploring new tools and customizing my dev setup
-- 👀 Looking for: Freelance, internships & collaboration
+- 👀 Focus: Full-stack development & Android
 
 <br clear="right"/>
 
@@ -84,8 +84,8 @@ def who_am_i():
         "skills": ["Python", "HTML", "CSS", "React", "Kotlin", "Git"],
         "tools": ["VS Code", "OpenCode", "Claude Code", "n8n", "OpenDesign"],
         "learning": ["Full-stack", "Android", "DSA"],
-        "goal": "Freelance + internships, ship real apps",
-        "open_to": ["Freelance", "Internships", "Collaboration"]
+        "goal": "Ship real apps, grow into a full-stack developer",
+        "open_to": ["Hackathons", "Open source", "Collaboration"]
     }
 
 print(who_am_i())
@@ -126,7 +126,7 @@ print(who_am_i())
 
 1. 🏗️ **Short-term (2026-2027):** Deepen JavaScript + Python OOP, ship 3 more mini projects, keep a steady commit streak
 2. 💼 **Mid-term (2027-2028):** Full-stack React + backend, DSA fluency, hackathons and open-source contributions
-3. 🌍 **Long-term:** Software engineer building AI-powered products, with freelance and internship experience behind me
+3. 🌍 **Long-term:** Software engineer building AI-powered products used by real people
 4. 🤝 **Community:** Share build notes, help juniors start shipping, document everything in public
 
 ---
