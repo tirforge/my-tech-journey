@@ -71,9 +71,10 @@ I love understanding how software works — from websites and apps to problem-so
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
 
-- 🔧 **Tools:** Git, GitHub, VS Code, Linux terminal
-- 🌐 **Web Basics:** HTML, CSS, basic JavaScript
-- 📊 **Other:** Markdown, Google Colab
+- 🔧 **Tools:** Git, GitHub, VS Code, Linux terminal, OpenCode, Claude Code
+- 🌐 **Web Basics:** HTML, CSS, basic JavaScript, React basics
+- 🤖 **AI & Automation:** OpenDesign, n8n workflows, AI-assisted coding
+- 📱 **Android:** Custom ROMs, rooting, system tweaks
 - 🧠 **CS Fundamentals:** Problem solving, basic data structures, OOP concepts (learning)
 
 ```python
@@ -82,10 +83,12 @@ def who_am_i():
     return {
         "name": "T Thirupathi Raja",
         "education": "B.Tech IT @ GEC Barton Hill",
-        "skills": ["Python", "C", "HTML", "CSS", "Git"],
-        "learning": ["JavaScript", "DSA", "Linux"],
-        "goal": "Become a full-stack developer",
-        "open_to": "Hackathons, internships & collaboration"
+        "portfolio": "https://tthirupathiraja.vercel.app",
+        "skills": ["Python", "HTML", "CSS", "React", "Kotlin", "Git"],
+        "tools": ["VS Code", "OpenCode", "Claude Code", "n8n", "OpenDesign"],
+        "learning": ["Full-stack", "Android", "DSA"],
+        "goal": "Freelance + internships, ship real apps",
+        "open_to": ["Freelance", "Internships", "Collaboration"]
     }
 
 print(who_am_i())
@@ -95,16 +98,20 @@ print(who_am_i())
 
 ## 🚀 Featured Projects
 
-> Pinned repos need framing — here's what I'm building and why it matters:
+> Real apps I've shipped — source and demos linked. Full showcase: **https://tthirupathiraja.vercel.app**
 
-| Project | What it is | Stack | Status |
-|---------|------------|-------|--------|
-| **🌐 My Portfolio Website** | Personal homepage with my bio, skills & contact | HTML, CSS, JS | 🚧 In progress |
-| **🐍 Python Mini Projects** | Calculator, to-do CLI, number-guessing game | Python | 📝 Planning |
-| **📝 C Lab Programs** | College lab exercises, clean & commented | C | ✅ Started |
-| **📖 my-tech-journey** | This repo — my public learning diary (Task 2) | Markdown | ✅ Live |
+| Project | What it is | Stack | Link |
+|---------|------------|-------|------|
+| **🎬 Aruvi — Streaming Movie App** | Browsable catalog + playback, React web + native Kotlin Android app | React, Kotlin, Python | [tirforge/Aruvi](https://github.com/tirforge/Aruvi) |
+| **📥 Telegram Leech** | Bot that fetches/mirrors files from URLs & torrents into chat | Python, Git | [tirforge/telegram-leech](https://github.com/tirforge/telegram-leech) |
+| **💬 Ivy — Blog Generator & Chatbot** | Topic → structured post with title/outline/draft + Q&A chat | Python, HTML, CSS | [tirforge/ivy](https://github.com/tirforge/ivy) |
+| **📄 MarkToPaper — QnA Generator** | Upload a PDF, get clean question-answer revision notes | Python | [tirforge/MarkToPaper](https://github.com/tirforge/MarkToPaper) |
+| **🌐 Portfolio Website** | My homepage — bio, skills, projects, contact, freelance info | React, HTML, CSS | [tthirupathiraja.vercel.app](https://tthirupathiraja.vercel.app) |
+| **📖 my-tech-journey** | This repo — my public learning diary (Task 2) | Markdown | ✅ You're here |
 
-*New repos coming soon — star this repo to follow along!*
+<p align="center">
+  <a href="https://tthirupathiraja.vercel.app"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-tthirupathiraja.vercel.app-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
+</p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/SWoSkNksGN6MKzJ4V6/giphy.gif" width="320" alt="coding cat gif" />
@@ -183,18 +190,6 @@ timeline
 
 ---
 
-## 😄 Fun Zone
-
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="dev joke" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
-</p>
-
----
-
 ## 📂 How to Use This Repo
 
 This is a profile repo — just read it! But if you want to reuse the structure:
@@ -214,12 +209,14 @@ cd my-tech-journey
 ## 🔗 Connect With Me
 
 <p align="center">
+  <a href="https://tthirupathiraja.vercel.app"><img src="https://img.shields.io/badge/Portfolio-tthirupathiraja.vercel.app-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
   <a href="https://github.com/tirforge"><img src="https://img.shields.io/badge/GitHub-tirforge-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
   <a href="#"><img src="https://img.shields.io/badge/LinkedIn-coming_soon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 </p>
 
 | Platform | Link |
 |----------|------|
+| 🌐 Portfolio | [tthirupathiraja.vercel.app](https://tthirupathiraja.vercel.app) |
 | 💻 GitHub | [github.com/tirforge](https://github.com/tirforge) |
 | 💼 LinkedIn | *Coming soon — will update here* |
 | 📧 Email | *Available on request* |
